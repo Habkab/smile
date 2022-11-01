@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Habkab/smile#readme",
   "dependencies": {
+    "devserver": "^0.2.5",
     "express": "^4.18.2",
     "python": "^0.0.4",
     "webpack": "^5.74.0"
